@@ -6369,6 +6369,17 @@
         "tags":  "Anime, Torrent"
     },
     {
+        "rank":  51,
+        "name":  "YTS",
+        "url":  "https://yts.mx/",
+        "slug":  "yts",
+        "section":  "Download",
+        "category":  "download",
+        "pricing":  "free*",
+        "nsfw":  false,
+        "tags":  "Movies, Torrent, HD, DDL"
+    },
+    {
         "rank":  1,
         "name":  "Karaoke Mugen",
         "url":  "https://kara.moe/",
